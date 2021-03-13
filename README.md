@@ -1,5 +1,5 @@
 # test_repo
-Our Test project 1234
+Our Test project
 new line
 
 new line 2
